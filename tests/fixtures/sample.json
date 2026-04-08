@@ -1,0 +1,50 @@
+[
+  {
+    "ts": "1712000000.0",
+    "user": "Alice",
+    "text": "Just a reminder that the deadline is TODAY. I thought everyone knew this.",
+    "channel": "general"
+  },
+  {
+    "ts": "1712000060.0",
+    "user": "Bob",
+    "text": "Sure, happy to help — though I did flag this risk in last week's meeting.",
+    "channel": "general"
+  },
+  {
+    "ts": "1712000120.0",
+    "user": "Carol",
+    "text": "Great work on the launch everyone! Really proud of what the team achieved.",
+    "channel": "general"
+  },
+  {
+    "ts": "1712000180.0",
+    "user": "Dave",
+    "text": "I'll take a look when I have bandwidth. No promises on timing.",
+    "channel": "general"
+  },
+  {
+    "ts": "1712000240.0",
+    "user": "Alice",
+    "text": "Interesting approach… though I wonder if leadership would actually approve this.",
+    "channel": "general"
+  },
+  {
+    "ts": "1712000300.0",
+    "user": "Bob",
+    "text": "We need to ship this by EOD or the whole quarter is at risk. No exceptions.",
+    "channel": "general"
+  },
+  {
+    "ts": "1712000360.0",
+    "user": "Carol",
+    "text": "Does anyone else think this is the right direction? Just want to make sure we're all aligned.",
+    "channel": "general"
+  },
+  {
+    "ts": "1712000420.0",
+    "user": "Dave",
+    "text": "I appreciate the feedback, but the final call on this is mine.",
+    "channel": "general"
+  }
+]
