@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment
+.env
+.env.local
+
+# Cagey output
+cagey_output/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
