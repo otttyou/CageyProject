@@ -141,7 +141,7 @@ Contributions are welcome! Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for g
 
 ## Author
 
-Created by [Your Name/Team]
+Created by kf
 
 ---
 
